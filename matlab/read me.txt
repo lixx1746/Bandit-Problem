@@ -1,0 +1,1 @@
+just run the simulate.m file. the setting is all there.
